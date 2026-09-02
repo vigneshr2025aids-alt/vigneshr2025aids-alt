@@ -7,8 +7,8 @@ AI & Data Science Student | Python Developer | AI/ML Enthusiast | Problem Solver
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+%7C+C%2B%2B+%7C+JavaScript+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Solutions;Problem+Solver+%7C+Continuous+Learner" alt="Typing Animation" />
 </p>
-
-<p align="center">
+<h2>Connect With Me 🌐</h2>
+<p>
   <a href="https://github.com/vigneshr2025aids-alt">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
