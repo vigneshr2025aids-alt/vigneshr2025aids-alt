@@ -18,11 +18,12 @@ AI & Data Science Student | Python Developer | AI/ML Enthusiast | Problem Solver
   <a href="mailto:vignesh.r2025aids@sece.ac.in">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://linktr.ee/Vignesh.R_">
+    <img src="https://img.shields.io/badge/LINKTREE-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigneshr2025aids-alt&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
-</p>
+
 
 ---
 
